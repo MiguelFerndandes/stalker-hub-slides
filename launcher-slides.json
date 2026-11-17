@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "file": "pripyat-background.png",
+      "sha256": "DFC459782CCB62AD9E6D343D86E388D44D7D189590C83456C9CBE170ECA5874B"
+    }
+  ]
+}
